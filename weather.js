@@ -1,3 +1,4 @@
+// Weather: Create a script to update an HTML template with data contained in a JavaScript object. See the following files for more info.
 const WEATHER_DATA = {
   location: 'Lancaster, PA',
   currentTemp: 50,
@@ -21,4 +22,3 @@ const WEATHER_DATA = {
 
 
 // Your code should start after this line
-
